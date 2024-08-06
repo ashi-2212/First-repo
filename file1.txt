@@ -1,2 +1,4 @@
 first file
 writing in master branch 
+writing from feature branch
+conflict resolved
